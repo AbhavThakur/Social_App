@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Abhav Payment</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">pr2v9XyBYq4jFIEQikTrwf_VnBB3xYmM2kCuc</string>
+</resources>
